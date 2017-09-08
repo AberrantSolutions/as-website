@@ -1,0 +1,35 @@
+.index-banner {
+    height: 80%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: #f8f8f8;
+    background: url("images/index/placeholder.jpg") center center / cover no-repeat;
+    text-align: center;
+    min-height: 550px;
+    max-height: 650px;
+    background-size:cover;
+}
+
+.index-banner-brand {
+    font-size: 80px;
+    font-family: muli, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-shadow: #000 1px 1px 0px;
+}
+
+.index-banner-motto {
+    font-size: 30px;
+    font-weight: 300;
+    text-shadow: #000 1px 1px 0px;
+}
+
+#index-banner-brand {
+    -webkit-animation-duration: 3s;
+    -moz-animation-duration: 3s;
+}
+
+#index-banner-motto {
+    -webkit-animation-duration: 3s;
+    -moz-animation-duration: 3s;
+}
